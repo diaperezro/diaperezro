@@ -26,5 +26,5 @@ Además de estas herramientas, utilizo plataformas de gestión de proyectos como
 ## Contacto:
 Si esta descripción te resulta interesante, no dudes en contactarme. Estaré encantado de formar parte de tu equipo.
 
-- LinkedIn: [Mi Perfil](enlace)
+- LinkedIn: https://www.linkedin.com/in/diego-armando-perez-rodriguez-61a9a5263?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMmAhtF7RQ82EGfzW%2FQ9tVg%3D%3D
 - Correo: diaperezro9@gmail.com
